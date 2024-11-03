@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Random Password Generator",
+    "version": "1.0",
+    "description": "Creates a password based on the length and character information received from the user.",
+    "action": {
+      "default_popup": "passwdgenerator.html"
+    },
+    "permissions": []
+  }
+  
